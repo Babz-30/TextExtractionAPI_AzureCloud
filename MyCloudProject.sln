@@ -1,0 +1,94 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCloudProject", "MyCloudProject\MyCloudProject.csproj", "{F1D4DE86-8FB6-4992-8300-9580DE1D8F39}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCloudProject.Common", "MyCloudProject.Common\MyCloudProject.Common.csproj", "{CDF685B8-B25E-4FBD-BE51-A534B0FD0D4E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{AEDF5AC9-F5A7-4287-AA52-6C0A279B1000}"
+	ProjectSection(SolutionItems) = preProject
+		Documentation\Exercises - Firstname Lastname.md = Documentation\Exercises - Firstname Lastname.md
+		Documentation\Experiment Specification - Fiestname Lastname.md = Documentation\Experiment Specification - Fiestname Lastname.md
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyExperiment", "MyExperiment\MyExperiment.csproj", "{DBAAABB2-DCFB-4BA8-8791-E62854C2691C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SampleFiles", "SampleFiles", "{8D6BC83E-EA27-4ED0-BE0A-03598BC93564}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{643B1A11-1FD8-4BB2-B26C-CD2613BFF5BF}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Input_Images", "Input_Images", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\kathi\Downloads\Input_Images\image1.jpg = C:\Users\kathi\Downloads\Input_Images\image1.jpg
+		C:\Users\kathi\Downloads\Input_Images\image10.png = C:\Users\kathi\Downloads\Input_Images\image10.png
+		C:\Users\kathi\Downloads\Input_Images\image11.jpg = C:\Users\kathi\Downloads\Input_Images\image11.jpg
+		C:\Users\kathi\Downloads\Input_Images\image12.jpg = C:\Users\kathi\Downloads\Input_Images\image12.jpg
+		C:\Users\kathi\Downloads\Input_Images\image2.jpg = C:\Users\kathi\Downloads\Input_Images\image2.jpg
+		C:\Users\kathi\Downloads\Input_Images\image3.jpg = C:\Users\kathi\Downloads\Input_Images\image3.jpg
+		C:\Users\kathi\Downloads\Input_Images\image4.jpg = C:\Users\kathi\Downloads\Input_Images\image4.jpg
+		C:\Users\kathi\Downloads\Input_Images\image5.jpg = C:\Users\kathi\Downloads\Input_Images\image5.jpg
+		C:\Users\kathi\Downloads\Input_Images\image6.png = C:\Users\kathi\Downloads\Input_Images\image6.png
+		C:\Users\kathi\Downloads\Input_Images\image7.png = C:\Users\kathi\Downloads\Input_Images\image7.png
+		C:\Users\kathi\Downloads\Input_Images\image8.jpg = C:\Users\kathi\Downloads\Input_Images\image8.jpg
+		C:\Users\kathi\Downloads\Input_Images\image9.jpg = C:\Users\kathi\Downloads\Input_Images\image9.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "receipt_images", "receipt_images", "{238A934B-057E-4C88-866C-D106CB1FA0E1}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\kathi\Downloads\receipt_images\0.jpg = C:\Users\kathi\Downloads\receipt_images\0.jpg
+		C:\Users\kathi\Downloads\receipt_images\1.jpg = C:\Users\kathi\Downloads\receipt_images\1.jpg
+		C:\Users\kathi\Downloads\receipt_images\10.jpg = C:\Users\kathi\Downloads\receipt_images\10.jpg
+		C:\Users\kathi\Downloads\receipt_images\11.jpg = C:\Users\kathi\Downloads\receipt_images\11.jpg
+		C:\Users\kathi\Downloads\receipt_images\12.jpg = C:\Users\kathi\Downloads\receipt_images\12.jpg
+		C:\Users\kathi\Downloads\receipt_images\13.jpg = C:\Users\kathi\Downloads\receipt_images\13.jpg
+		C:\Users\kathi\Downloads\receipt_images\14.jpg = C:\Users\kathi\Downloads\receipt_images\14.jpg
+		C:\Users\kathi\Downloads\receipt_images\15.jpg = C:\Users\kathi\Downloads\receipt_images\15.jpg
+		C:\Users\kathi\Downloads\receipt_images\16.jpg = C:\Users\kathi\Downloads\receipt_images\16.jpg
+		C:\Users\kathi\Downloads\receipt_images\17.jpg = C:\Users\kathi\Downloads\receipt_images\17.jpg
+		C:\Users\kathi\Downloads\receipt_images\18.jpg = C:\Users\kathi\Downloads\receipt_images\18.jpg
+		C:\Users\kathi\Downloads\receipt_images\19.jpg = C:\Users\kathi\Downloads\receipt_images\19.jpg
+		C:\Users\kathi\Downloads\receipt_images\2.jpg = C:\Users\kathi\Downloads\receipt_images\2.jpg
+		C:\Users\kathi\Downloads\receipt_images\3.jpg = C:\Users\kathi\Downloads\receipt_images\3.jpg
+		C:\Users\kathi\Downloads\receipt_images\4.jpg = C:\Users\kathi\Downloads\receipt_images\4.jpg
+		C:\Users\kathi\Downloads\receipt_images\5.jpg = C:\Users\kathi\Downloads\receipt_images\5.jpg
+		C:\Users\kathi\Downloads\receipt_images\6.JPG = C:\Users\kathi\Downloads\receipt_images\6.JPG
+		C:\Users\kathi\Downloads\receipt_images\7.jpg = C:\Users\kathi\Downloads\receipt_images\7.jpg
+		C:\Users\kathi\Downloads\receipt_images\8.jpg = C:\Users\kathi\Downloads\receipt_images\8.jpg
+		C:\Users\kathi\Downloads\receipt_images\9.jpg = C:\Users\kathi\Downloads\receipt_images\9.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1D4DE86-8FB6-4992-8300-9580DE1D8F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1D4DE86-8FB6-4992-8300-9580DE1D8F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1D4DE86-8FB6-4992-8300-9580DE1D8F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1D4DE86-8FB6-4992-8300-9580DE1D8F39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDF685B8-B25E-4FBD-BE51-A534B0FD0D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF685B8-B25E-4FBD-BE51-A534B0FD0D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF685B8-B25E-4FBD-BE51-A534B0FD0D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF685B8-B25E-4FBD-BE51-A534B0FD0D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBAAABB2-DCFB-4BA8-8791-E62854C2691C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBAAABB2-DCFB-4BA8-8791-E62854C2691C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBAAABB2-DCFB-4BA8-8791-E62854C2691C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBAAABB2-DCFB-4BA8-8791-E62854C2691C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{02EA681E-C7D8-13C7-8484-4AC65E1B71E8} = {8D6BC83E-EA27-4ED0-BE0A-03598BC93564}
+		{238A934B-057E-4C88-866C-D106CB1FA0E1} = {8D6BC83E-EA27-4ED0-BE0A-03598BC93564}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E0089B6-3CE9-4539-B446-4E3AC74671BE}
+	EndGlobalSection
+EndGlobal

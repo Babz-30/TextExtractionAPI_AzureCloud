@@ -1,0 +1,17 @@
+D:\Babitha\FraUAS\CC\se-cloud-2024-2025\Source\MyCloudProjectSample\MyCloudProject.Common\bin\Debug\net8.0\x86\leptonica-1.85.0.dll
+D:\Babitha\FraUAS\CC\se-cloud-2024-2025\Source\MyCloudProjectSample\MyCloudProject.Common\bin\Debug\net8.0\x86\tesseract55.dll
+D:\Babitha\FraUAS\CC\se-cloud-2024-2025\Source\MyCloudProjectSample\MyCloudProject.Common\bin\Debug\net8.0\x64\leptonica-1.85.0.dll
+D:\Babitha\FraUAS\CC\se-cloud-2024-2025\Source\MyCloudProjectSample\MyCloudProject.Common\bin\Debug\net8.0\x64\tesseract55.dll
+D:\Babitha\FraUAS\CC\se-cloud-2024-2025\Source\MyCloudProjectSample\MyCloudProject.Common\bin\Debug\net8.0\MyCloudProject.Common.deps.json
+D:\Babitha\FraUAS\CC\se-cloud-2024-2025\Source\MyCloudProjectSample\MyCloudProject.Common\bin\Debug\net8.0\MyCloudProject.Common.dll
+D:\Babitha\FraUAS\CC\se-cloud-2024-2025\Source\MyCloudProjectSample\MyCloudProject.Common\bin\Debug\net8.0\MyCloudProject.Common.pdb
+D:\Babitha\FraUAS\CC\se-cloud-2024-2025\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net8.0\MyCloudProject.Common.csproj.AssemblyReference.cache
+D:\Babitha\FraUAS\CC\se-cloud-2024-2025\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net8.0\MyCloudProject.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Babitha\FraUAS\CC\se-cloud-2024-2025\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net8.0\MyCloudProject.Common.AssemblyInfoInputs.cache
+D:\Babitha\FraUAS\CC\se-cloud-2024-2025\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net8.0\MyCloudProject.Common.AssemblyInfo.cs
+D:\Babitha\FraUAS\CC\se-cloud-2024-2025\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net8.0\MyCloudProject.Common.csproj.CoreCompileInputs.cache
+D:\Babitha\FraUAS\CC\se-cloud-2024-2025\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net8.0\MyCloudProject.Common.sourcelink.json
+D:\Babitha\FraUAS\CC\se-cloud-2024-2025\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net8.0\MyCloudProject.Common.dll
+D:\Babitha\FraUAS\CC\se-cloud-2024-2025\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net8.0\refint\MyCloudProject.Common.dll
+D:\Babitha\FraUAS\CC\se-cloud-2024-2025\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net8.0\MyCloudProject.Common.pdb
+D:\Babitha\FraUAS\CC\se-cloud-2024-2025\Source\MyCloudProjectSample\MyCloudProject.Common\obj\Debug\net8.0\ref\MyCloudProject.Common.dll
